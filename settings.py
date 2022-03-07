@@ -1,4 +1,4 @@
-class settings:
+class Settings:
     """储存设置类"""
 
     def __init__(self):
