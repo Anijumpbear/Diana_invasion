@@ -3,6 +3,6 @@ class settings:
 
     def __init__(self):
         # 屏幕
-        self.screen_width = 1920
-        self.screen_height = 1080
-        self.bg_color = (1920, 1080)
+        self.screen_width = 1280
+        self.screen_height = 720
+        self.bg_color = (200, 180, 170)
